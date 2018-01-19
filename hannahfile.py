@@ -1,3 +1,6 @@
+def convertAcresToFeetSquare ( acres)
+	return acres * 43560
+
 def convertDollarsToCents( dollars):
 	return dollars * 100
 
