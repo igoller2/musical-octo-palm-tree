@@ -6,3 +6,7 @@ def convertDollarsToCents( dollars):
 
 def convertHoursToMinutes( Hours)
 	return hours * 60
+
+def convertFeetToInches( feet ):
+	return feet * 12
+
