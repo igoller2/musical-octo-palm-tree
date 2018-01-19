@@ -2,4 +2,7 @@ def convertDollarsToCents( dollars):
 	return dollars * 100
 
 def convertHoursToMinutes( Hours)
-	return hours * 60
+	return Hours * 60
+
+def convertMinutestoSeconds( Minutes)
+	return Minutes * 60
