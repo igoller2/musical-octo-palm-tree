@@ -6,3 +6,6 @@ def convertHoursToMinutes( Hours)
 
 def convertMinutestoSeconds( Minutes)
 	return Minutes * 60
+
+def convertFeetToInches( feet ):
+	return feet * 12
